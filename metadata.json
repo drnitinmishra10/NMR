@@ -1,0 +1,11 @@
+{
+  "name": "Mishra Research Repository",
+  "description": "A searchable index and navigation dashboard for Dr. Nitin Mishra's research papers and HTML publication archives.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
